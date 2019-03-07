@@ -1,0 +1,11 @@
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.1\ConsoleAppTest.deps.json
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.1\ConsoleAppTest.runtimeconfig.json
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.1\ConsoleAppTest.runtimeconfig.dev.json
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.1\ConsoleAppTest.dll
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.1\ConsoleAppTest.pdb
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.1\ConsoleAppTest.csprojAssemblyReference.cache
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.1\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.1\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.1\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.1\ConsoleAppTest.dll
+C:\Users\770001472\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.1\ConsoleAppTest.pdb
